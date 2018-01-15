@@ -1,0 +1,3 @@
+Use 100 books database from Dan and compare to 100 children's books scraped from Gutenberg.
+
+Compare word distributions, n-grams, etc.
