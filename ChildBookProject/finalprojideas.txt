@@ -1,3 +1,8 @@
-Use 100 books database from Dan and compare to 100 children's books scraped from Gutenberg.
+use Montag books corpus and compare with length-matched excerpts from LDP child-directed speech
 
-Compare word distributions, n-grams, etc.
+look for:
+    - unique word types
+    - POS distribution
+    - parsing structure?
+
+train classifier on these differences 
