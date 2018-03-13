@@ -1,8 +1,0 @@
-use Montag books corpus and compare with length-matched excerpts from LDP child-directed speech
-
-look for:
-    - unique word types
-    - POS distribution
-    - parsing structure?
-
-train classifier on these differences 
